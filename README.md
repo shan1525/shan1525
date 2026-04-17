@@ -51,20 +51,7 @@
 
 ## 🌐 Website
 
-🔗 https://shan1525.github.io  
-
----
-
-## 📫 Contact
-
-- Email: shazadil14@gmail.com  
-- INSPIRE: https://inspirehep.net/authors/2726490  
-
----
-
-## 📊 GitHub Stats
-
-![Shahnawaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=shan1525&show_icons=true)
+🔗 https://shan1525.github.io   
 
 ---
 
